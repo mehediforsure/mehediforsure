@@ -13,29 +13,29 @@ What I Do
 
 Currently Learning
 
-- Advanced React & Next.js
+- Advanced Next.js
 - Backend development and system design
 - Database architecture and optimization
 - Cloud deployment and DevOps fundamentals
 
 Tech Stack
 
-Frontend: HTML, CSS, JavaScript, React, Next.js
+Frontend: HTML, CSS, JavaScript, Next.js
 Backend: Node.js, Express
 Database: MongoDB, Supabase, PostgreSQL
-Tools: Git, GitHub, VS Code, Figma
+Tools: Git, GitHub, VS Code, Figma, Stitch
 
 Current Goals
 
 - Grow as a freelance web developer
 - Build impactful full-stack projects
 - Contribute to open-source projects
-- Create products that people genuinely enjoy using
+- Create products that people genuinely enjoy using and contribute to the social scene.
 
 Beyond Coding
 
-When I'm not coding, I'm producing electronic music, experimenting with sound design, and releasing music on Bandcamp.
+When I'm not coding, I'm producing electronic music, experimenting with sound design, and releasing music on Bandcamp - https://mehedi.bandcamp.com
 
-Fun Fact
+Fun Fact -
 
 I switch between building web apps and producing music. Both are about creating something from nothing.
